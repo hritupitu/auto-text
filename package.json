@@ -1,0 +1,20 @@
+{
+    "name": "@hritupitu/auto-text",
+    "version": "0.0.2",
+    "description": "Uses YOLOv3 Tiny and adds alt-text to an image automatically",
+    "license": "MIT",
+    "repository": "hritupitu/auto-text",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "yolo",
+        "hritupitu",
+        "alt-text"
+    ],
+    "dependencies": {
+        "tfjs-yolo-tiny" : "^1.0.1"
+    }
+    
+}
